@@ -15,3 +15,5 @@ Search results for Google, Amazon and Bing, when searching for "shirt without st
 # Google
 ![](screenshots/google.png)
 
+# Duckduckgo
+![](screenshots/duckduckgo.png)
