@@ -21,3 +21,4 @@ Search results for Google, Amazon and Bing, when searching for "shirt without st
 # Google
 ![](screenshots/google.png)
 
+> https://news.ycombinator.com/item?id=22925087
