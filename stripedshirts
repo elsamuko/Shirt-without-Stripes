@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# cronjob for /etc/cron.weekly, check with
+# run-parts --test /etc/cron.weekly | grep stripedshirts
+
+echo "Running stripedshirts"
+
+cd "/home/pi/projects/Shirt-without-Stripes" || exit
+sudo -u pi './update.sh'
